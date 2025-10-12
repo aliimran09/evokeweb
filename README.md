@@ -94,8 +94,7 @@ If you’d like to collaborate or need a custom WordPress site:
 
 **👤 Developer:** Muhammad Abid  
 **💼 Portfolio:** [https://evokeweb.tech](https://evokeweb.tech)  
-**📧 Email:** your@email.com  
-**🌍 Location:** Pakistan  
+**📧 Email:** aliimran.work90@gmail.com
 
 ---
 
