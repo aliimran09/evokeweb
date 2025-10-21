@@ -1,7 +1,6 @@
 # 🌐 EvokeWeb | Professional WordPress Portfolio Website
 
-**EvokeWeb** is a modern, dynamic, and professional **WordPress portfolio website** created to showcase development expertise, creativity, and clean design.  
-It’s built entirely in **WordPress**, combining custom design elements, responsiveness, and optimized performance for the best user experience.
+**EvokeWeb** EvokeWeb is a sleek, innovative WordPress portfolio website designed to highlight development skills, creativity, and a polished aesthetic.
 
 ---
 
@@ -36,13 +35,12 @@ It’s built entirely in **WordPress**, combining custom design elements, respon
 ---
 
 ## 💻 Features Overview
-
-✅ Modern and elegant WordPress UI  
-✅ Fast-loading and mobile-friendly  
-✅ Clean code structure (HTML, CSS, JS customization)  
-✅ Integrated contact forms and social links  
-✅ Optimized meta tags, sitemap, and image SEO  
-✅ Deployed with SSL and CDN for high performance  
+✅ Sleek and sophisticated WordPress interface
+✅ Quick load times and fully mobile-responsive
+✅ Well-structured code (custom HTML, CSS, JS)
+✅ Built-in contact forms and social media integrations
+✅ Enhanced with optimized meta tags, sitemap, and image SEO
+✅ Deployed with SSL and CDN for optimal performance
 
 ---
 
