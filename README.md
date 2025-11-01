@@ -1,6 +1,6 @@
 # 🌐 EvokeWeb | Professional WordPress Portfolio Website
 
-**EvokeWeb** EvokeWeb is a sleek, innovative WordPress portfolio website designed to highlight development skills, creativity, and a polished aesthetic.
+EvokeWeb is a modern, dynamic WordPress portfolio site crafted to showcase development expertise, creative vision, and a refined design style.
 
 ---
 
@@ -64,13 +64,19 @@ Below are some screenshots of the live project:
 
 I handled the **entire project lifecycle** from setup to deployment:
 
-1. Installed and configured WordPress on hosting.  
-2. Customized theme and Elementor templates from scratch.  
-3. Wrote custom CSS for animations, responsiveness, and styling.  
-4. Optimized SEO, caching, and performance metrics.  
-5. Integrated forms, icons, and motion effects.  
-6. Tested and debugged on multiple devices.  
-7. Deployed the final version and configured analytics.
+Set up and configured WordPress on the hosting environment.
+
+Designed and customized the theme and Elementor templates from the ground up.
+
+Developed custom CSS for animations, responsive layouts, and visual styling.
+
+Enhanced SEO, caching, and overall site performance.
+
+Integrated interactive forms, icons, and dynamic motion effects.
+
+Conducted cross-device testing and resolved bugs for smooth functionality.
+
+Deployed the final website and implemented analytics tracking.
 
 This project reflects my skills in **WordPress development**, **UI design**, **optimization**, and **creative branding**.
 
@@ -96,5 +102,5 @@ If you’d like to collaborate or need a custom WordPress site:
 
 ---
 
-⭐ **Give this repo a star** if you like my work — it helps support more open-source contributions!
+⭐ If you found this project useful, consider giving it a star — your support motivates more open-source work!
 
